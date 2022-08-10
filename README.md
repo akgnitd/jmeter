@@ -44,3 +44,8 @@ Right Click -> Add -> Listener -> View Results Tree
 8. Save the script and launch the test to ensure everything is working properly.
 
 <img width="730" alt="image" src="https://user-images.githubusercontent.com/19672171/183482168-b3fb8691-1885-49ab-a339-ad5f9cb5f421.png">
+
+# JMeter Thread Number Function
+
+The Thread Number function is a function that shows the number of the thread that is being executed. To examine it, let’s modify one of the threads on our test to go through www.blazedemo.com/vacation.html
+
