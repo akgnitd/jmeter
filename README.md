@@ -47,5 +47,20 @@ Right Click -> Add -> Listener -> View Results Tree
 
 # JMeter Thread Number Function
 
-The Thread Number function is a function that shows the number of the thread that is being executed. To examine it, let’s modify one of the threads on our test to go through www.blazedemo.com/vacation.html
+The Thread Number function is a function that shows the number of the thread that is being executed. To examine it, let’s modify one of the threads on our test 
+1. So first, change the number of the threads to a different number, say 3.
+
+<img width="544" alt="image" src="https://user-images.githubusercontent.com/19672171/184212159-d875e03d-b979-4c80-a68a-d8fd047554df.png">
+
+2. Add an If Controller as a child element to the Thread Group. The If Controller lets us execute requests based on a specific condition.
+
+Right Click on Thread Group -> Add -> Logic Controller -> If Controller
+
+In the Condition, write the JMeter function:
+
+${__threadNum()} == 1
+
+This function refers to the thread that is currently executed, in this case, the first one.
+<img width="727" alt="image" src="https://user-images.githubusercontent.com/19672171/184212266-87c20c7a-2620-41e8-b564-96c643feecd4.png">
+
 
