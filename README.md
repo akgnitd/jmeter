@@ -63,4 +63,10 @@ ${__threadNum()} == 1
 This function refers to the thread that is currently executed, in this case, the first one.
 <img width="727" alt="image" src="https://user-images.githubusercontent.com/19672171/184212266-87c20c7a-2620-41e8-b564-96c643feecd4.png">
 
+4. Add a HTTP Sampler as a child element of the If Controller
+
+Right Click on Thread Group -> Add -> Sampler ->  HTTP Request
+
+5. Type vacation.html in the path field of the HTTP Request. This means we are running the first thread only through the vacation.html page.
+<img width="418" alt="image" src="https://user-images.githubusercontent.com/19672171/184505543-46a5a940-a8ae-4317-b2af-9f232dea2b12.png">
 
