@@ -70,3 +70,10 @@ Right Click on Thread Group -> Add -> Sampler ->  HTTP Request
 5. Type vacation.html in the path field of the HTTP Request. This means we are running the first thread only through the vacation.html page.
 <img width="418" alt="image" src="https://user-images.githubusercontent.com/19672171/184505543-46a5a940-a8ae-4317-b2af-9f232dea2b12.png">
 
+6. Save the test, clear the results and run the script
+
+<img width="455" alt="image" src="https://user-images.githubusercontent.com/19672171/184547932-fa3d7bc6-0a57-4c57-ab0d-2047c9c1d375.png">
+
+You can see in the results that the vacation page was opened only once, and only for the first thread (we changed the HTTP Request’s name to Vacation, to ensure it was running properly).
+
+<img width="759" alt="image" src="https://user-images.githubusercontent.com/19672171/184547948-d4eef36d-46f2-4b10-8dcc-662b65bb514a.png">
