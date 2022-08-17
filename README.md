@@ -84,3 +84,10 @@ The Function Helper Dialog can help you create function strings and see the diff
 
 1. Open it under JMeter Options, like this:
 
+<img width="728" alt="image" src="https://user-images.githubusercontent.com/19672171/185211191-ee8d406f-6479-4a1e-bebe-c7af921deb8f.png">
+
+2. In the Helper Dialog, you can choose the function you want and see what is required. Let’s look at the information (log) function, which logs a function and returns it in input string.
+
+<img width="728" alt="image" src="https://user-images.githubusercontent.com/19672171/185211287-42329d5f-7f49-4a9c-8523-3c82458ec267.png">
+
+
