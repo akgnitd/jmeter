@@ -77,3 +77,10 @@ Right Click on Thread Group -> Add -> Sampler ->  HTTP Request
 You can see in the results that the vacation page was opened only once, and only for the first thread (we changed the HTTP Request’s name to Vacation, to ensure it was running properly).
 
 <img width="759" alt="image" src="https://user-images.githubusercontent.com/19672171/184547948-d4eef36d-46f2-4b10-8dcc-662b65bb514a.png">
+
+# The Information Function and the Function Helper Dialog
+
+The Function Helper Dialog can help you create function strings and see the different function options you have.
+
+1. Open it under JMeter Options, like this:
+
