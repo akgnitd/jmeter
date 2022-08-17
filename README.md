@@ -90,4 +90,8 @@ The Function Helper Dialog can help you create function strings and see the diff
 
 <img width="728" alt="image" src="https://user-images.githubusercontent.com/19672171/185211287-42329d5f-7f49-4a9c-8523-3c82458ec267.png">
 
+3. Fill in the configurations:
 
+  String to be logged - vacation.html
+  Log level - OUT, this means this string will be printed out to the system log
+  Additional comment - Some comment
