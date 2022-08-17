@@ -92,6 +92,6 @@ The Function Helper Dialog can help you create function strings and see the diff
 
 3. Fill in the configurations:
 
-  String to be logged - vacation.html
-  Log level - OUT, this means this string will be printed out to the system log
-  Additional comment - Some comment
+* String to be logged - vacation.html
+* Log level - OUT, this means this string will be printed out to the system log
+* Additional comment - Some comment
