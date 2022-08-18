@@ -95,3 +95,7 @@ The Function Helper Dialog can help you create function strings and see the diff
 * String to be logged - vacation.html
 * Log level - OUT, this means this string will be printed out to the system log
 * Additional comment - Some comment
+
+![image](https://user-images.githubusercontent.com/19672171/185461022-bce83a5a-7a6a-41b4-9333-17a7b5c7a625.png)
+
+Right Click on Thread Group -> Add -> Sampler ->  HTTP Request
