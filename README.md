@@ -99,3 +99,9 @@ The Function Helper Dialog can help you create function strings and see the diff
 ![image](https://user-images.githubusercontent.com/19672171/185461022-bce83a5a-7a6a-41b4-9333-17a7b5c7a625.png)
 
 Right Click on Thread Group -> Add -> Sampler ->  HTTP Request
+
+4. Click on ‘Generate.
+
+You will get the results in the bottom string.
+
+${__log(vacation.html,OUT,,Some comment)}
