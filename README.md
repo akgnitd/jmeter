@@ -105,3 +105,5 @@ Right Click on Thread Group -> Add -> Sampler ->  HTTP Request
 You will get the results in the bottom string.
 
 ${__log(vacation.html,OUT,,Some comment)}
+
+![image](https://user-images.githubusercontent.com/19672171/185461287-6cfc7a2f-5881-4bbe-a9e3-62e27a0835f3.png)
