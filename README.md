@@ -111,3 +111,5 @@ ${__log(vacation.html,OUT,,Some comment)}
 Now, you can copy and paste it wherever you need it in your script.
 
 
+5. We will put it in the path field of the HTTP Request under the If Controller.
+
