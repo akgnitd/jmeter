@@ -117,3 +117,4 @@ Now, you can copy and paste it wherever you need it in your script.
 
 6. Save the script, clear previous results, launch the script
 
+7. Check the results and the system outlog. You can see that all the information was printed out in the system log, with the ‘Some comment’.
